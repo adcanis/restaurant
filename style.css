@@ -1,0 +1,128 @@
+/* Global Settings */
+#content {
+    display: flex;
+}
+/* Left Side of page */
+.navBar {
+    justify-content: flex-start;
+}
+
+.logo {
+    margin-top: 75px;
+    width: 250px;
+    height: 100px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.logo:hover {
+    cursor: pointer;
+}
+
+.slogan {
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.nav {
+    display: grid;
+    text-align: center;
+}
+
+.navItem {
+    font-size: 25px;
+    margin-top: 40px;
+    text-decoration: none;
+    color: black;
+}
+
+.socialLinks {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 75px;
+    font-size: 30px;
+    color: #292b2c;
+
+}
+
+/* Right Side of Page */
+.main {
+    justify-content: flex-end;
+}
+
+/* Home Page */
+.topImg {
+    width: 100%;
+}
+
+.missionDiv {
+    background-color: rgba(91, 192, 222, .7);
+    height: 300px;
+    width: 100%;
+    margin-top: -30px;
+}
+
+.mission {
+    text-align: center;
+    font-size: 25px;
+    color: #f7f7f7;
+    padding: 50px;
+}
+
+.orderDiv {
+    display: flex;
+    justify-content: center;
+    background-color: #f7f7f7;
+    margin-top: -50px;
+}
+
+.orderText {
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 25px;
+    margin-right: 50px;
+    padding: 20px;
+}
+.orderButtons {
+    display: flex;
+    justify-content: center;
+    background-color: #f7f7f7;
+    margin-top: -50px;
+    
+}
+
+.uber {
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+}
+
+.skip {
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+}
+
+/*About Page */
+
+/* Menu Page */
+
+/* Contact */
+
+
+
+/* CopyRight */
+.copyright {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 20px;
+    margin-top: 50px;
+    color: #363636;
+}
+#copyrightLink {
+    text-decoration: none;
+    color: #363636;
+}
+
+
