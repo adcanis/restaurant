@@ -21,7 +21,6 @@
     background-color: #ab7a41;
     margin-top: -8px;
     border-top: 5px solid #292929;
-    height: 200px;
 }
 
 #mission {
@@ -38,6 +37,7 @@
     grid-template-rows: auto;
     justify-content: center;
     margin-bottom: 10px;
+    margin-top: -10px;
     background-color: #292929;
 }
 
@@ -95,8 +95,6 @@
 
 .input {
     margin-bottom: 10px;
-
-
 }
 
 /* CopyRight */
