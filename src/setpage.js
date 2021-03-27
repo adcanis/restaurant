@@ -6,7 +6,13 @@ function makePage() {
     header.innerHTML = `
     <nav class="navbar" role="navigation" aria-label="main navigation">
                 <a href="#"><img id="logo" src="images/logo.png"></a>
-                <div class="navbar-menu">
+                <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+                <div class="navbar-menu" id="navMenu">
     <div class="navbar-end">
       <a class="navbar-item" id="homeBtn">
         Home
@@ -23,7 +29,7 @@ function makePage() {
                         <a class="button is-danger" id="orderBtn">
                           <strong>Order Now</strong>
                         </a>
-                        <a class="button is-dark fas fa-shopping-cart" id="userBtn">
+                        <a class="button is-dark fas fa-shopping-cart" id="cartBtn">
                         </a>
                       </div>
                     </div>
