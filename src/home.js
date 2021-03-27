@@ -7,8 +7,8 @@ function makeHome() {
 <div class="main">
     <div id="aboutus">
 
-    <p id="mission">Hi there, I am in the midst of taking the Hardvard CS50x and FullStackOpen offered by the University of Helsinki, and this project represets a course test mock up.</p>
-    <p id="mission">With that said, I would like to offer this site for free. If you choose to accept this offer, I will upload your information and provide hosting for 1yr.</p>
+    <p id="mission">At "Your Restaurant", we know what we've got in our backyard. We aren't dubbed Ontario's Garden for no good reason</p>
+    <p id="mission">Every morning we head out and gather our ingredients from you! That's right, you. We pride ourselves in knowing that the hands that worked this land, grew our herbs, fished our waters and raised our animals are the ones that put this wonderful food to plate. So kick off the boots, turn the john-deere off and join us for some grub!</p>
     </div>
 
     <div id="orderNow">

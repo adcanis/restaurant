@@ -30,7 +30,7 @@ function makeMenu() {
 
     <h3 id="menuTitle">The Loaded Long Point</h3>
     <img id="menuPic" src="images/menu5.jpg">
-    <p id="menuItem">Like the beach it's named after, this this is packed! But worth every morsal</p>
+    <p id="menuItem">Like the beach it's named after, this is packed! But worth every morsal</p>
     <p id="price">$24.99</p>
     <button class="button is-info" id="addToCart">
     Add To Cart</button>
